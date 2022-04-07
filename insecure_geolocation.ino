@@ -12,7 +12,7 @@ char mypass[] = "6hrfng3yf7db";
 
 const char* googleAPI = "http://www.googleapis.com";
 String endPoint = "/geolocation/v1/geolocate?key=";
-String key = "****************
+String key = "****************"
 WifiLocation location(key);
 
 
